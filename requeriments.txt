@@ -1,0 +1,8 @@
+streamlit
+gdown
+tensorflow
+numpy
+opencv-python
+matplotlib
+Pillow
+requests
